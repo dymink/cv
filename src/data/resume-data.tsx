@@ -112,22 +112,15 @@ export const RESUME_DATA = {
     "Golang",
   ],
   projects: [
-    // {
-    //   title: "Parabol",
-    //   techStack: [
-    //     "Full Stack Developer",
-    //     "TypeScript",
-    //     "React",
-    //     "Node.js",
-    //     "GraphQL",
-    //   ],
-    //   description:
-    //     "The Agile meeting co-pilot that delivers better meetings with less effort",
-    //   logo: ParabolLogo,
-    //   link: {
-    //     label: "github.com",
-    //     href: "https://parabol.co/",
-    //   },
-    // }
+    {
+      title: "Blog",
+      techStack: ["Golang"],
+      description: "My blog ",
+      logo: ParabolLogo,
+      link: {
+        label: "github.com",
+        href: "https://github.com/dymink/dyminkiewi",
+      },
+    },
   ],
 } as const;
