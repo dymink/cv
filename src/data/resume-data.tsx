@@ -72,9 +72,9 @@ export const RESUME_DATA = {
         "I was responsible for leading the frontend chapter, recommending code and architecture best practices, establishing the application requirements, discussing UX requirements, implementing the frontend side, and writing E2E tests.",
     },
     {
-      company: "Pekao Financial Services Sp. z o.o",
+      company: "Pekao Financial Services",
       link: "https://www.pekao-fs.com.pl/en",
-      badges: ["Remote"],
+      badges: [],
       title: "Javascript Developer",
       start: "2019",
       end: "2019",
@@ -84,7 +84,7 @@ export const RESUME_DATA = {
     {
       company: "Samsung",
       link: "https://samsung.pl",
-      badges: ["Remote"],
+      badges: [],
       title: "Software engineer",
       start: "2016",
       end: "2019",
@@ -94,12 +94,12 @@ export const RESUME_DATA = {
     {
       company: "Samsung",
       link: "https://samsung.pl",
-      badges: ["Remote"],
+      badges: [],
       title: "Intern",
       start: "2015",
       end: "2016",
       description:
-        "I was developing GEAR S2 and GEAR S3 smartwatch applications and games.",
+        "I was developing applications and games for GEAR S2 and GEAR S3 smartwatch.",
     },
   ],
   skills: [
